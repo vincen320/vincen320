@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vincen320
 - 👀 I’m interested in backend engineer
 - 🌱 I’m currently learning go programming language
-- 💞️ I’m looking to collaborate on microservices app
+- 💞️ I’m looking to collaborate on backend project.
 - 📫 How to reach me +6281271631243
 
 <!---
