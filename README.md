@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate backend engineer with a love for 
 
 🌐 Check out my [LinkedIn profile](https://www.linkedin.com/in/vincen320) to learn more about my professional journey and experiences.
 
-📫 Feel free to reach out to me at [me.vincen@dev](mailto:me.vincen@dev) for any inquiries or collaborations.
+📫 Feel free to reach out to me at [me@vincen.dev](mailto:me@vincen.dev) for any inquiries or collaborations.
 
 ## Let's Connect
 
